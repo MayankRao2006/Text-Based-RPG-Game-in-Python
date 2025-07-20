@@ -34,5 +34,5 @@ Improving combat feedback and game polish.
 
 ### Run the Game
 ```bash
-python filename.py
+python RPG_type_game.py
 
